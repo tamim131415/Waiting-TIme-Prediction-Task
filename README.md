@@ -6,6 +6,15 @@ This project implements a *real-time waiting time prediction system* using a *Ra
 - *Arrival Time (in seconds)*
 - *Arrival Day, Month, and Year*
 
+## Folder Description
+- Dataset folder contains Foramatted Dataset and Preprocessed Dataset.
+- Docs folder contains a brief document explaining our approach, assumptions, and decisions.
+- Images folder contains all images representing visualization.
+
+## File Description
+- analysis.ipynb contains all preprocessing steps.
+- visualization.ipynb contains all data visualization approaches.
+- main.ipynb contains training pipeline, model evaluation, XAI and real-time prediction.
 
 
 ## Model
