@@ -14,7 +14,8 @@ This project implements a *real-time waiting time prediction system* using a *Ra
 
 ## Evaluation Model
 - Please create a Models folder and download the trained model from these:
-  - [``](https://onnx.ai/)
+  - [Random Forest Regression](https://drive.google.com/file/d/1e8cOJ9voO6K074kUMVGZ-vGyQZNPw18u/view?usp=drive_link)
+  - [XGBoost Regression](https://drive.google.com/file/d/1xxBbn5MtwXZn5babVGpWbQJC-tha9P0Q/view?usp=drive_link)
 
 ## Installation
 To set up the environment, use the provided environment.yml file.
