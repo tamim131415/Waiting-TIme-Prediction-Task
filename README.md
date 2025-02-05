@@ -12,6 +12,10 @@ This project implements a *real-time waiting time prediction system* using a *Ra
 - *Models*: Random Forest Regressor (RFR), Decition Tree Regression (DTR), Linear Regression (LR) and XGBoost Regression
 - *Feature Set*: Encoded service name, timestamp features
 
+## Evaluation Model
+- Please create a Models folder and download the trained model from these:
+  - [``](https://onnx.ai/)
+
 ## Installation
 To set up the environment, use the provided environment.yml file.
 
