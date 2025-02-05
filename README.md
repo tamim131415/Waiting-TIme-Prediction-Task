@@ -24,3 +24,5 @@ conda activate time_prediction_env
 ## Results
 In real-time prediction, users can select a *service name, and the system predicts the waiting time in real-time. The model achieves **high accuracy and fast inference* by leveraging optimized pre-processing and caching mechanisms.
 
+
+
